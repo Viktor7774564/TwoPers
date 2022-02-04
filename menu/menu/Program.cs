@@ -27,7 +27,7 @@ namespace menu
                    
                     break;
                 case 2:
-                 
+                    Console.WriteLine(a-b);
                     break;
                 case 3:
                    
