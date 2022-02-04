@@ -36,6 +36,7 @@ namespace menu
                     Console.WriteLine(a/b);
                     break;
             }
+            //
         }
     }
 }
