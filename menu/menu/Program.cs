@@ -33,7 +33,7 @@ namespace menu
                    
                     break;
                 case 4:
-                   
+                    Console.WriteLine(a/b);
                     break;
             }
         }
